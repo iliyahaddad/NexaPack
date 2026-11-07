@@ -59,3 +59,7 @@ confidential data.
 - Build configuration: CMake
 - Intended platforms: Windows and Linux
 - Archive extension: `.npx`
+
+## License
+
+See LICENSE file.
